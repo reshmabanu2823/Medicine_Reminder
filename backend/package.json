@@ -1,27 +1,4 @@
 {
-<<<<<<< HEAD
-  "name": "meditrack-backend",
-  "version": "0.1.0",
-  "description": "Backend scaffold for MediTrack+ (Auth, Medicines, Stock, Notifications)",
-  "main": "src/index.js",
-  "scripts": {
-    "start": "node src/index.js",
-    "dev": "nodemon src/index.js"
-  },
-  "dependencies": {
-    "bcrypt": "^5.1.0",
-    "sqlite3": "^5.1.6",
-    "body-parser": "^1.20.1",
-    "cors": "^2.8.5",
-    "dotenv": "^16.0.3",
-    "express": "^4.18.2",
-    "jsonwebtoken": "^9.0.0",
-    "nodemailer": "^6.9.3",
-    "node-cron": "^3.0.2"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.22"
-=======
   "name": "medicine-reminder-backend",
   "version": "1.0.0",
   "description": "Medicine Reminder Backend API",
@@ -42,6 +19,5 @@
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
->>>>>>> a3538f3108d95fe8e5df2c95cc1d081443f93885
   }
 }

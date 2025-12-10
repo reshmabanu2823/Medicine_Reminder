@@ -11,7 +11,7 @@ import Notifications from './components/Notifications';
 import Profile from './components/Profile';
 import Reports from './components/Reports';
 import Settings from './components/Settings';
-import { Toaster } from 'sonner@2.0.3';
+import { Toaster } from 'sonner';
 
 function App() {
   const [showSplash, setShowSplash] = useState(true);
